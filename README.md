@@ -22,3 +22,25 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Demo
+
+### Login
+
+![](assets/login.png)
+
+### User
+
+![](assets/user.png)
+
+### ReceiptOuts
+
+![](assets/receiptOuts)
+
+### ReceiptIns
+
+![](assets/receiptIns)
+
+### Note
+
+`assets/note.md`
