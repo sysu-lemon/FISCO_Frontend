@@ -35,11 +35,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### ReceiptOuts
 
-![](assets/receiptOuts)
+![](assets/receiptOuts.png)
 
 ### ReceiptIns
 
-![](assets/receiptIns)
+![](assets/receiptIns.png)
 
 ### Note
 
